@@ -11,11 +11,17 @@ Execute the Elmo.py.
 
 Expected Output - 
  C:\Users\Python\Scripts>Elmo.py
+ 
  DevTools listening on ws://127.0.0.1:57668/devtools/browser/b147e657-92e1-4638-8b43-8344e403ed0e
+ 
  The url of the webpage is as expected. The url is https://elmosoftware.com.au/solutions/core-hr/
+ 
  Key Benefits exists on page
+ 
  Seamless cloud-based payroll and HR solution exists on page
+ 
  Browse Jobs button exists
+ 
  Senior PHP Software Engineer exists on page.
 
 Notes - 
