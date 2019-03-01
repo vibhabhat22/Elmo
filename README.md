@@ -1,5 +1,5 @@
 # Elmo
-I have written the automation script using Python and Selenium on Windows.
+The automation script is written using Python and Selenium on Windows.
 
 Pre-requistes -
 1. Install python. Add relevant environment variables
