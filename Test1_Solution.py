@@ -41,7 +41,6 @@ def solutions_page():
     else:
         print ("Error - Seamless cloud-based payroll and HR solution does not exist on page")
     
-    
     return
 
 def careers_page():
